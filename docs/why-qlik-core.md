@@ -51,7 +51,7 @@ our open source tools available in JavaScript. Other top languages and tools use
 C#, Python, Java and D3. Qlik Core can also be managed with the orchestration tool of your choice for
 implementing, scaling and managing containerized applications.
 
-<div>
+<div class="md-inside-button-container">
     <a href="/licensing/">
         <div class="md-inside-button"> Try free </div>
     </a>
